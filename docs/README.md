@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-# Code-learning
-=======
-<<<<<<< HEAD
-# Code-learning
-=======
-# Headline
+该站点将记录自己的学习笔记
 
-> An awesome project.
->>>>>>> myblogs first commit
->>>>>>> myblogs first commit
