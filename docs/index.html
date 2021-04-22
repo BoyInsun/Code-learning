@@ -28,13 +28,41 @@
         placeholder: '搜索',
         noData: '找不到结果!',
         depth: 3
-      }
+      },
+	  count:{ countable:true, fontsize:'0.9em', color:'rgb(90,90,90)', language:'chinese' },
+	  
+	  
+	 plugins: [
+		function (hook) {
+      var footer = [
+        "<hr/>",
+        "<footer>",
+		'<p><h1>欢迎加微信交流学习</h1></p>',
+        '<span><img src="images/wechat.jpg" style="width="300px" height="300px""></span>',
+        "</footer>",
+      ].join("");
+
+      hook.afterEach(function (html) {
+        return html + footer;
+      });
+    },
+  ],
     }
   </script>
 
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- 放大图片-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 翻页插件-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  
+  <!--代码高亮-->
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
 </body>
 </html>
