@@ -8,6 +8,13 @@
   
 * **二 、数据库**
 
-*    三、**LeetCode**
+*    **三、Linux**
+  * [linux命令](Linux/linux)
 
+* **四、工具**
+  * [idea激活码](tools/tools)
 
+* **五、算法**
+  * [leetcode](算法/leetcode)
+
+​		
