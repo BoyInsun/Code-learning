@@ -1,8 +1,8 @@
 **1.点击下面链接，下载破解码**
 
-http://idea.medeming.com/jets/
+http://idea.medeming.com/idea/
 
-![](../images/tools-tools-1.png)
+![img](file:///C:\Users\18492\AppData\Roaming\Tencent\Users\1765617629\QQ\WinTemp\RichOle\6S]PYNGOKRSV1P$92P@2ODP.png)
 
 **2.解压下载的文件，打开下面图示的文件，复制相应的破解码即可粘贴到idea相应位置上即可**
 
