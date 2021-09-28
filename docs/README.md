@@ -28,41 +28,41 @@
 
 ## 基础
 
-[Java基础](Java/Java基础)
+[Java基础](Java/Java基础.md)
 
 ## JVM
 
-[JVM](Java/JVM)
+[JVM](Java/JVM.md)
 
 ## 多线程
 
-[多线程](Java/多线程)
+[多线程](Java/多线程.md)
 
 ## 框架
 
-[Springboot](Java/spring)
+[Springboot](Java/spring.md)
 
 # **二 、数据库**
 
-[数据库面经](数据库/数据库)
+[数据库面经](数据库/数据库.md)
 
 # **三、Linux**
 
-[linux命令](Linux/linux)
+[linux命令](Linux/linux.md)
 
 # **四、工具**
 
-[idea激活码](tools/tools)
+[idea激活码](tools/tools.md)
 
 # **五、算法**
 
-[leetcode](算法/leetcode)
+[leetcode](算法/leetcode.md)
 
 # **六、go**
 
-[资源推荐](go/资源推荐)
+[资源推荐](go/资源推荐.md)
 
 # **七、谷粒商城学习笔记**
 
-[项目笔记](gulimail/guli)
+[项目笔记](gulimail/guli.md)
 
