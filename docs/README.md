@@ -52,7 +52,7 @@
 
 # **四、工具**
 
-[idea激活码](tools/tools.md)
+[工具](tools/tools.md)
 
 # **五、算法**
 
